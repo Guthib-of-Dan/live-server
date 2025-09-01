@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@ublitzjs/core": "^0.1.0",
+    "@ublitzjs/sitemap": "^0.0.2",
+    "@ublitzjs/static": "^0.1.2"
+  }
+}
